@@ -4,7 +4,7 @@
 
 **Scientific name:** *Mangifera sylvatica*  
 
-**Plastid genome accession number;** NC_057292.1
+**Plastid genome accession number:** NC_057292.1
 
 ### 2. What is the total length of the plastid genome in base pairs?
 
