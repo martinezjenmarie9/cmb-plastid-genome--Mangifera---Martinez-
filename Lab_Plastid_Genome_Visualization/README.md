@@ -36,7 +36,7 @@ The *Mangifera sylvatica* plastid genome is a circular genome of 157,824 bp. The
 
 The answers and analysis for the plastid genome map are available in:
 
-[Lab Plastid Genome Answers](Lab_plastid_genome_answers.md)
+[Lab Plastid Genome Answers](https://github.com/martinezjenmarie9/cmb-plastid-genome--Mangifera---Martinez-/blob/main/Lab_Plastid_Genome_Visualization/answers/Lab_plastid_genome_answers.md)
 
 ## Reference
 
